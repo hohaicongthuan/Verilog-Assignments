@@ -1,0 +1,60 @@
+|COUNTER
+count_o[0] <= CONVERTER:converter_inst0.data_o
+count_o[1] <= CONVERTER:converter_inst0.data_o
+count_o[2] <= CONVERTER:converter_inst0.data_o
+count_o[3] <= CONVERTER:converter_inst0.data_o
+load_i => load_i.IN1
+value_i[0] => value_i[0].IN1
+value_i[1] => value_i[1].IN1
+value_i[2] => value_i[2].IN1
+value_i[3] => value_i[3].IN1
+clk => clk.IN1
+
+
+|COUNTER|REG:register_inst0
+data_o[0] <= data_o[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= data_o[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= data_o[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+data_i[0] => data_o[0]~reg0.DATAIN
+data_i[1] => data_o[1]~reg0.DATAIN
+data_i[2] => data_o[2]~reg0.DATAIN
+clk => data_o[0]~reg0.CLK
+clk => data_o[1]~reg0.CLK
+clk => data_o[2]~reg0.CLK
+
+
+|COUNTER|LOADER:loader_inst0
+data_o[0] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+value_i[0] => Decoder0.IN3
+value_i[1] => Decoder0.IN2
+value_i[2] => Decoder0.IN1
+value_i[3] => Decoder0.IN0
+data_i[0] => data_o.DATAB
+data_i[1] => data_o.DATAB
+data_i[2] => data_o.DATAB
+
+
+|COUNTER|ADDER:adder_inst0
+data_o[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_i[0] => Add0.IN6
+data_i[1] => Add0.IN5
+data_i[2] => Add0.IN4
+
+
+|COUNTER|CONVERTER:converter_inst0
+data_o[0] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[3] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_i[0] => Decoder0.IN2
+data_i[1] => Decoder0.IN1
+data_i[2] => Decoder0.IN0
+
+
