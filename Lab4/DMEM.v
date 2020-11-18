@@ -11,10 +11,12 @@ module DMEM(Addr_i, data_i, WEn_i, data_o, clk);
 	
 	reg [15:0] dmem[31:0];
 	
+	/*
 	initial begin
 		$readmemb("init_mem.txt", dmem);
 	end
-
+	*/
+	
 	always @ (negedge clk) begin
 		if (WEn_i) dmem[Addr_i] <= data_i;
 	end
