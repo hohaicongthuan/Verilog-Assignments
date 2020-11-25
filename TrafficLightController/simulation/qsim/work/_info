@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\GitHub\Verilog-Assignments\TrafficLightController\simulation\qsim
+vTrafficLightController
+Z1 I1QRS?[V;ANj8mbU4m`nD72
+Z2 VY]]?]ZWG=6Xji3G:ASUgN3
+Z3 dC:\GitHub\Verilog-Assignments\TrafficLightController\simulation\qsim
+Z4 w1606277268
+Z5 8TrafficLightController.vo
+Z6 FTrafficLightController.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@traffic@light@controller
+!i10b 1
+Z10 !s100 ?=_CCDa<I@1aQfV2`Sf^20
+!s85 0
+Z11 !s108 1606277277.671000
+Z12 !s107 TrafficLightController.vo|
+Z13 !s90 -work|work|TrafficLightController.vo|
+!s101 -O0
+vTrafficLightController_vlg_check_tst
+!i10b 1
+!s100 ENVfaX5cgRfkXP3WQC0230
+Ic_3LG6C;:gU372B:T>f;P2
+VV`>SDHS_IHg[ll6O@5=;P2
+R3
+Z14 w1606277264
+Z15 8TrafficLightController.vt
+Z16 FTrafficLightController.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1606277278.478000
+Z18 !s107 TrafficLightController.vt|
+Z19 !s90 -work|work|TrafficLightController.vt|
+!s101 -O0
+R8
+n@traffic@light@controller_vlg_check_tst
+vTrafficLightController_vlg_sample_tst
+!i10b 1
+!s100 Gobmcf?cDNk5mh?I^jPG91
+I;he3aAL6IcM?GPY0zjKD?3
+VhhDo2zEmPe@U8`HBjgh@?2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@traffic@light@controller_vlg_sample_tst
+vTrafficLightController_vlg_vec_tst
+!i10b 1
+!s100 ]^6K6he[M9=1T565Y_WTN1
+IKKUL[NLMf>=laiFGP@Z1D2
+VXcgMN=ef4bVfE>d[bic<Z2
+R3
+R14
+R15
+R16
+L0 291
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@traffic@light@controller_vlg_vec_tst

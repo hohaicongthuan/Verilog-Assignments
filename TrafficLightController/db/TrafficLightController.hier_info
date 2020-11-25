@@ -1,0 +1,273 @@
+|TrafficLightController
+clk => clk.IN3
+ShortTime_i[0] => ShortTime_i[0].IN1
+ShortTime_i[1] => ShortTime_i[1].IN1
+ShortTime_i[2] => ShortTime_i[2].IN1
+ShortTime_i[3] => ShortTime_i[3].IN1
+ShortTime_i[4] => ShortTime_i[4].IN1
+ShortTime_i[5] => ShortTime_i[5].IN1
+LongTime_i[0] => LongTime_i[0].IN1
+LongTime_i[1] => LongTime_i[1].IN1
+LongTime_i[2] => LongTime_i[2].IN1
+LongTime_i[3] => LongTime_i[3].IN1
+LongTime_i[4] => LongTime_i[4].IN1
+LongTime_i[5] => LongTime_i[5].IN1
+HR <= FSM:FSM_Inst.HR
+HY <= FSM:FSM_Inst.HY
+HG <= FSM:FSM_Inst.HG
+FR <= FSM:FSM_Inst.FR
+FY <= FSM:FSM_Inst.FY
+FG <= FSM:FSM_Inst.FG
+
+
+|TrafficLightController|COUNTER:ShortTime_Inst
+count_o[0] <= count_o[0].DB_MAX_OUTPUT_PORT_TYPE
+count_o[1] <= count_o[1].DB_MAX_OUTPUT_PORT_TYPE
+count_o[2] <= count_o[2].DB_MAX_OUTPUT_PORT_TYPE
+count_o[3] <= count_o[3].DB_MAX_OUTPUT_PORT_TYPE
+count_o[4] <= count_o[4].DB_MAX_OUTPUT_PORT_TYPE
+count_o[5] <= count_o[5].DB_MAX_OUTPUT_PORT_TYPE
+load_i => load_i.IN1
+value_i[0] => value_i[0].IN1
+value_i[1] => value_i[1].IN1
+value_i[2] => value_i[2].IN1
+value_i[3] => value_i[3].IN1
+value_i[4] => value_i[4].IN1
+value_i[5] => value_i[5].IN1
+clk => clk.IN1
+
+
+|TrafficLightController|COUNTER:ShortTime_Inst|REG:register_inst0
+d[0] => q.DATAB
+d[1] => q.DATAB
+d[2] => q.DATAB
+d[3] => q.DATAB
+d[4] => q.DATAB
+d[5] => q.DATAB
+q[0] <= q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[2] <= q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[3] <= q[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[4] <= q[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[5] <= q[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+clk => q[0]~reg0.CLK
+clk => q[1]~reg0.CLK
+clk => q[2]~reg0.CLK
+clk => q[3]~reg0.CLK
+clk => q[4]~reg0.CLK
+clk => q[5]~reg0.CLK
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+
+
+|TrafficLightController|COUNTER:ShortTime_Inst|LOADER:loader_inst0
+data_o[0] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[3] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[4] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[5] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+value_i[0] => data_o.DATAA
+value_i[1] => data_o.DATAA
+value_i[2] => data_o.DATAA
+value_i[3] => data_o.DATAA
+value_i[4] => data_o.DATAA
+value_i[5] => data_o.DATAA
+data_i[0] => data_o.DATAB
+data_i[1] => data_o.DATAB
+data_i[2] => data_o.DATAB
+data_i[3] => data_o.DATAB
+data_i[4] => data_o.DATAB
+data_i[5] => data_o.DATAB
+
+
+|TrafficLightController|COUNTER:ShortTime_Inst|ADDER:adder_inst0
+data_o[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[4] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[5] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_i[0] => Add0.IN12
+data_i[1] => Add0.IN11
+data_i[2] => Add0.IN10
+data_i[3] => Add0.IN9
+data_i[4] => Add0.IN8
+data_i[5] => Add0.IN7
+
+
+|TrafficLightController|COUNTER:LongTime_Inst
+count_o[0] <= count_o[0].DB_MAX_OUTPUT_PORT_TYPE
+count_o[1] <= count_o[1].DB_MAX_OUTPUT_PORT_TYPE
+count_o[2] <= count_o[2].DB_MAX_OUTPUT_PORT_TYPE
+count_o[3] <= count_o[3].DB_MAX_OUTPUT_PORT_TYPE
+count_o[4] <= count_o[4].DB_MAX_OUTPUT_PORT_TYPE
+count_o[5] <= count_o[5].DB_MAX_OUTPUT_PORT_TYPE
+load_i => load_i.IN1
+value_i[0] => value_i[0].IN1
+value_i[1] => value_i[1].IN1
+value_i[2] => value_i[2].IN1
+value_i[3] => value_i[3].IN1
+value_i[4] => value_i[4].IN1
+value_i[5] => value_i[5].IN1
+clk => clk.IN1
+
+
+|TrafficLightController|COUNTER:LongTime_Inst|REG:register_inst0
+d[0] => q.DATAB
+d[1] => q.DATAB
+d[2] => q.DATAB
+d[3] => q.DATAB
+d[4] => q.DATAB
+d[5] => q.DATAB
+q[0] <= q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[2] <= q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[3] <= q[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[4] <= q[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[5] <= q[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+clk => q[0]~reg0.CLK
+clk => q[1]~reg0.CLK
+clk => q[2]~reg0.CLK
+clk => q[3]~reg0.CLK
+clk => q[4]~reg0.CLK
+clk => q[5]~reg0.CLK
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+rst => q.OUTPUTSELECT
+
+
+|TrafficLightController|COUNTER:LongTime_Inst|LOADER:loader_inst0
+data_o[0] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[3] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[4] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+data_o[5] <= data_o.DB_MAX_OUTPUT_PORT_TYPE
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+load_i => data_o.OUTPUTSELECT
+value_i[0] => data_o.DATAA
+value_i[1] => data_o.DATAA
+value_i[2] => data_o.DATAA
+value_i[3] => data_o.DATAA
+value_i[4] => data_o.DATAA
+value_i[5] => data_o.DATAA
+data_i[0] => data_o.DATAB
+data_i[1] => data_o.DATAB
+data_i[2] => data_o.DATAB
+data_i[3] => data_o.DATAB
+data_i[4] => data_o.DATAB
+data_i[5] => data_o.DATAB
+
+
+|TrafficLightController|COUNTER:LongTime_Inst|ADDER:adder_inst0
+data_o[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[4] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_o[5] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+data_i[0] => Add0.IN12
+data_i[1] => Add0.IN11
+data_i[2] => Add0.IN10
+data_i[3] => Add0.IN9
+data_i[4] => Add0.IN8
+data_i[5] => Add0.IN7
+
+
+|TrafficLightController|Comparator:ST_Comp_Inst
+i_A[0] => LessThan0.IN6
+i_A[1] => LessThan0.IN5
+i_A[2] => LessThan0.IN4
+i_A[3] => LessThan0.IN3
+i_A[4] => LessThan0.IN2
+i_A[5] => LessThan0.IN1
+i_B[0] => LessThan0.IN12
+i_B[1] => LessThan0.IN11
+i_B[2] => LessThan0.IN10
+i_B[3] => LessThan0.IN9
+i_B[4] => LessThan0.IN8
+i_B[5] => LessThan0.IN7
+Out <= LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|TrafficLightController|Comparator:LT_Comp_Inst
+i_A[0] => LessThan0.IN6
+i_A[1] => LessThan0.IN5
+i_A[2] => LessThan0.IN4
+i_A[3] => LessThan0.IN3
+i_A[4] => LessThan0.IN2
+i_A[5] => LessThan0.IN1
+i_B[0] => LessThan0.IN12
+i_B[1] => LessThan0.IN11
+i_B[2] => LessThan0.IN10
+i_B[3] => LessThan0.IN9
+i_B[4] => LessThan0.IN8
+i_B[5] => LessThan0.IN7
+Out <= LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|TrafficLightController|FSM:FSM_Inst
+TS => TS.IN1
+TL => TL.IN1
+clk => clk.IN1
+HY <= FSM_OUTPUT:Output_Inst.HY
+HG <= FSM_OUTPUT:Output_Inst.HG
+HR <= FSM_OUTPUT:Output_Inst.HR
+FY <= FSM_OUTPUT:Output_Inst.FY
+FG <= FSM_OUTPUT:Output_Inst.FG
+FR <= FSM_OUTPUT:Output_Inst.FR
+
+
+|TrafficLightController|FSM:FSM_Inst|FSM_NEXTSTATE:NextState_Inst
+CurrentState_i[0] => Mux0.IN4
+CurrentState_i[0] => Mux1.IN3
+CurrentState_i[1] => Mux0.IN3
+CurrentState_i[1] => Mux1.IN2
+TS => Mux0.IN5
+TS => Mux0.IN2
+TS => Mux1.IN0
+TS => Mux1.IN1
+TL => Mux1.IN4
+TL => Mux1.IN5
+NextState_o[0] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
+NextState_o[1] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|TrafficLightController|FSM:FSM_Inst|FSM_REG:REG_Inst
+d[0] => q[0]~reg0.DATAIN
+d[1] => q[1]~reg0.DATAIN
+q[0] <= q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+clk => q[0]~reg0.CLK
+clk => q[1]~reg0.CLK
+
+
+|TrafficLightController|FSM:FSM_Inst|FSM_OUTPUT:Output_Inst
+CurrentState_i[0] => Decoder0.IN1
+CurrentState_i[1] => Decoder0.IN0
+HY <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+HG <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+HR <= HR.DB_MAX_OUTPUT_PORT_TYPE
+FY <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+FG <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+FR <= HR.DB_MAX_OUTPUT_PORT_TYPE
+
+
