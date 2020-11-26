@@ -1,0 +1,85 @@
+C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_NEXTSTATE
+
+Top level modules:
+	FSM_NEXTSTATE
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_OUTPUT
+
+Top level modules:
+	FSM_OUTPUT
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module COUNTER
+
+Top level modules:
+	COUNTER
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator
+
+Top level modules:
+	Comparator
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TrafficLightController
+
+Top level modules:
+	TrafficLightController
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/REG.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/REG.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG
+
+Top level modules:
+	REG
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LOADER
+
+Top level modules:
+	LOADER
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADDER
+
+Top level modules:
+	ADDER
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CONVERTER
+
+Top level modules:
+	CONVERTER
+
+} {} {}} C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_REG
+
+Top level modules:
+	FSM_REG
+
+} {} {}}

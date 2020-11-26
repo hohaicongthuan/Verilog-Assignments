@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vADDER
+Z1 !s100 OM]AZPcJVgVazTZzND?P;2
+Z2 IkYIdT>=nVFDVBIjHmU3_<2
+Z3 V2kf0=ALE<60_9gFW9<:g31
+Z4 dC:\GitHub\Verilog-Assignments\TrafficLightController\ModelSim-PreSyn
+Z5 w1606274264
+Z6 8C:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v
+Z7 FC:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v|
+Z10 o-work work -O0
+Z11 n@a@d@d@e@r
+Z12 !s108 1606279885.638000
+Z13 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/ADDER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vComparator
+Z14 !s100 `bbjl>nJZSHhVF]4?1e9n0
+Z15 Ik<ATEQhml[HinHEdliQjT1
+Z16 VXi?C_JaTPTTP]?ao=5b5[2
+R4
+Z17 w1606277025
+Z18 8C:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v
+Z19 FC:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v|
+R10
+Z21 n@comparator
+Z22 !s108 1606279885.876000
+Z23 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/Comparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCONVERTER
+Z24 !s100 RE^fMkWHh]U56Yj1CjgTz2
+Z25 ID_aQB0HA=?6TKj>Zh_Aga2
+Z26 VHGhDZ;QT]Sf[F:6h3<1no3
+R4
+Z27 w1606274367
+Z28 8C:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v
+Z29 FC:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v|
+R10
+Z31 n@c@o@n@v@e@r@t@e@r
+Z32 !s108 1606279886.181000
+Z33 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/CONVERTER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCOUNTER
+Z34 I8Fh0GOZWShCzMJdSPH^fi3
+Z35 V[LMcgY:BAWAHYYn7kWcb^2
+R4
+Z36 w1606279872
+Z37 8C:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v
+Z38 FC:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v|
+R10
+Z40 n@c@o@u@n@t@e@r
+Z41 !s100 KTbhk?=AcNFjGiPo86odY2
+Z42 !s108 1606279886.458000
+Z43 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/COUNTER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM
+Z44 !s100 OW0Hcoe4`P;lj[gaIIE@_3
+Z45 Iz>@mJ]GToWlgZi>QT=EQY0
+Z46 V]ZPQ52CElJ[=fzFTg[ZBZ0
+R4
+Z47 w1606276518
+Z48 8C:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v
+Z49 FC:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v|
+R10
+Z51 n@f@s@m
+Z52 !s108 1606279886.758000
+Z53 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/FSM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_NEXTSTATE
+Z54 !s100 PdKZOoJEY[zBjHB_ce]mR0
+Z55 IYDFG@lUi62NkAoJcER_H[3
+Z56 Vdc3c[n:fhaGX;a3HEIZMV2
+R4
+Z57 w1606275838
+Z58 8C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v
+Z59 FC:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v|
+R10
+Z61 n@f@s@m_@n@e@x@t@s@t@a@t@e
+Z62 !s108 1606279887.134000
+Z63 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_NEXTSTATE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_OUTPUT
+Z64 !s100 zmJfhzJ`z^V?MY^6]]8Vg1
+Z65 I5Qjz_AneOI8FWmR1UCiJ@1
+Z66 VE2do=N5ikgA443>mUgLD?3
+R4
+Z67 w1606275353
+Z68 8C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v
+Z69 FC:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v|
+R10
+Z71 n@f@s@m_@o@u@t@p@u@t
+Z72 !s108 1606279887.594000
+Z73 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_OUTPUT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_REG
+Z74 !s100 hPfaLQ5F?47YAjC7M>OkQ2
+Z75 Ii;bB:iDBR`QA:1SOdd7kk3
+Z76 VGW<`MX7>L:W2n8bC0jB[D2
+R4
+Z77 w1606275059
+Z78 8C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v
+Z79 FC:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v
+L0 1
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v|
+R10
+Z81 n@f@s@m_@r@e@g
+Z82 !s108 1606279887.927000
+Z83 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/FSM_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLOADER
+Z84 !s100 3Gmlk4W<AZ>>bCgHEeg2i1
+Z85 IcGgVVWY<m2UG]2BVbH8f<1
+Z86 Vl:YCkDm832=P?CmA4:GBK0
+R4
+Z87 w1606274539
+Z88 8C:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v
+Z89 FC:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v|
+R10
+Z91 n@l@o@a@d@e@r
+Z92 !s108 1606279888.294000
+Z93 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/LOADER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREG
+Z94 !s100 H^P@V3KQk^6LkKcBSkhhe3
+Z95 IgjPWgY[ok4zCg6:^>PWN50
+Z96 Ve:LP]FX5JS0X2mWnXJdSQ1
+R4
+Z97 w1606274248
+Z98 8C:/GitHub/Verilog-Assignments/TrafficLightController/REG.v
+Z99 FC:/GitHub/Verilog-Assignments/TrafficLightController/REG.v
+L0 1
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/REG.v|
+R10
+Z101 n@r@e@g
+Z102 !s108 1606279888.573000
+Z103 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+!i10b 1
+Z104 !s100 cY>W@^M4;[TfzPbXS@L@l2
+Z105 I2BQL>7lGU;Q?V3CX=XkF@1
+Z106 VGdUiEZgaMiVEi@bgHJeE13
+R4
+Z107 w1606279778
+Z108 8C:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v
+Z109 FC:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1606279889.110000
+!s107 C:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v|
+Z110 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/ModelSim-PreSyn/Testbench.v|
+!s101 -O0
+R10
+Z111 n@testbench
+vTrafficLightController
+Z112 !s100 JkKAcI;ejmL`mXVoIn^4Q0
+Z113 IkhggCc?5nLQk0:BU0Y]b71
+Z114 VY]]?]ZWG=6Xji3G:ASUgN3
+R4
+Z115 w1606276974
+Z116 8C:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v
+Z117 FC:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v
+L0 1
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v|
+R10
+Z119 n@traffic@light@controller
+!i10b 1
+!s85 0
+Z120 !s108 1606279888.847000
+Z121 !s107 C:/GitHub/Verilog-Assignments/TrafficLightController/TrafficLightController.v|
+!s101 -O0

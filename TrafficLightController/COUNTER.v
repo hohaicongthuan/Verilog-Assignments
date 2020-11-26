@@ -14,7 +14,8 @@ module COUNTER(count_o, load_i, value_i, clk);
 	REG			register_inst0(
 											.clk(clk),
 											.d(loader_o),
-											.q(count_o)
+											.q(count_o),
+											.rst(1'b0)
 										);
 	LOADER		loader_inst0(
 										.data_o(loader_o),
