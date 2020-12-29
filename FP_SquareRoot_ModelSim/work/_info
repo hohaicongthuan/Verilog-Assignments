@@ -1,0 +1,445 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 6M=@:6FZzTBnAHenMzRk_3
+Z2 ILlC>AEeT5]g<>a4IS@o[o3
+Z3 VWEh;05Fhb3HENf9O_=fJ;0
+Z4 dC:\GitHub\Verilog-Assignments\FP_SquareRoot_ModelSim
+Z5 w1609078774
+Z6 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v
+Z7 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1609214917.317000
+Z13 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Mux4to1
+Z14 !s100 mfPGiA_M1^cnnzGSNGF<X0
+Z15 I]^I=h]0oBGco`liO:aokM2
+Z16 VEiNDY4[I_e8jTjT]4jGca3
+R4
+Z17 w1609072966
+Z18 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU_Mux4to1.v
+Z19 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU_Mux4to1.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU_Mux4to1.v|
+R10
+Z21 n@a@l@u_@mux4to1
+Z22 !s108 1609214917.619000
+Z23 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU_Mux4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z24 !s100 eNgkTHG;5b0b4PImKb1^j0
+Z25 Id<8i3aV6k;=SGTPB6`P=o1
+Z26 VeX^B5CFeFaD^bUhh3lfN53
+R4
+Z27 w1609160767
+Z28 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller.v
+Z29 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller.v|
+R10
+Z31 n@controller
+Z32 !s108 1609214924.077000
+Z33 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController_NextState
+Z34 IAnZLDaQIEE8THSl7F3Ki]0
+Z35 Vc_diNfSBL1Dfzj7>d50jg1
+R4
+Z36 w1609214893
+Z37 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_NextState.v
+Z38 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_NextState.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_NextState.v|
+R10
+Z40 n@controller_@next@state
+Z41 !s100 Hzn7ca:1lM7iU>VZe^0a61
+Z42 !s108 1609214924.413000
+Z43 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_NextState.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController_Outputs
+Z44 I=JVINGec@zVh_b;=SBO_52
+Z45 VD_7h:Qb91f>UK]_l_VDRz2
+R4
+Z46 w1609214846
+Z47 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Outputs.v
+Z48 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Outputs.v
+L0 1
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Outputs.v|
+R10
+Z50 n@controller_@outputs
+Z51 !s100 1Pz^6Qf?[CQ61D[=H6iAB0
+Z52 !s108 1609214924.839000
+Z53 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Outputs.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController_Reg
+Z54 !s100 YUXl;LMH][4Gi?7_fo`o32
+Z55 ImGWF93G058=3WOLhChI>^1
+Z56 VQE6zQf^A4J;b;boXMXYH53
+R4
+Z57 w1609160772
+Z58 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Reg.v
+Z59 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Reg.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Reg.v|
+R10
+Z61 n@controller_@reg
+!i10b 1
+!s85 0
+Z62 !s108 1609214925.189000
+Z63 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Controller/Controller_Reg.v|
+!s101 -O0
+vDatapath
+Z64 !s100 ME9PL:P@UGa3DTKmmWU600
+Z65 IF3CX@l@0;;k<@;@WHXVda0
+Z66 Vb7Cnfg0Az_;<W[G:XARW63
+R4
+Z67 w1609214063
+Z68 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath.v
+Z69 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath.v|
+R10
+Z71 n@datapath
+Z72 !s108 1609214918.092000
+Z73 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath_Mux2to1
+Z74 !s100 9dMNXHO6W;6=ngFSaWJZX0
+Z75 IkIM8]=5B1ZNdadjbRcFJJ2
+Z76 Ve6JJAB``kZCg0;bAg6TA?0
+R4
+Z77 w1609136703
+Z78 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v
+Z79 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v
+L0 1
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v|
+R10
+Z81 n@datapath_@mux2to1
+Z82 !s108 1609214918.460000
+Z83 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath_OutputGen
+!i10b 1
+Z84 !s100 _P4EZndoP6>Ofd0R?iNde2
+Z85 IlS^f8DgAEiefTH]_gjXfK2
+Z86 VLY[HXb[TQbaSYHa4m5CBd2
+R4
+Z87 w1609166832
+Z88 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_OutputGen.v
+Z89 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_OutputGen.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1609214925.701000
+!s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_OutputGen.v|
+Z90 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_OutputGen.v|
+!s101 -O0
+R10
+Z91 n@datapath_@output@gen
+vFP_Abs
+Z92 !s100 kjmQG[NLa4=U?IkV[am^k2
+Z93 Ifh=:`j@I_H;FYZ1?ZATVz1
+Z94 VT1<iT124_@`E_j8GD>SHO3
+R4
+Z95 w1609077504
+Z96 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v
+Z97 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v
+L0 1
+R8
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v|
+R10
+Z99 n@f@p_@abs
+Z100 !s108 1609214918.939000
+Z101 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Add
+Z102 !s100 GhSc@]b2CzRdghmdof0YC3
+Z103 InVc7COc9Hl5Wei2TbCN]j2
+Z104 V:84l1QOQXiPFF:=a1ib_42
+R4
+Z105 w1609071020
+Z106 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Add.v
+Z107 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Add.v
+L0 1
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Add.v|
+R10
+Z109 n@f@p_@add
+Z110 !s108 1609214919.427000
+Z111 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Div
+Z112 !s100 ^DLfFYk]P2DK^kDNaU7Aj2
+Z113 IA0[cUO@kKSnDALfR2Vi;41
+Z114 V`50NdXKO`_k4:7G8<<8]]2
+R4
+Z115 w1608906929
+Z116 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Div.v
+Z117 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Div.v
+L0 1
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Div.v|
+R10
+Z119 n@f@p_@div
+Z120 !s108 1609214919.798000
+Z121 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Mul
+Z122 !s100 meSV0`WCY[WhAG9c]Qn1a2
+Z123 IWi?mgGaHG>nD>D_?3Y^_S2
+Z124 V>dBH2IX7Ll6Z7T4VodR162
+R4
+Z125 w1608869176
+Z126 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v
+Z127 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v
+L0 1
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v|
+R10
+Z129 n@f@p_@mul
+Z130 !s108 1609214920.089000
+Z131 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_SQRT
+Z132 !s100 MQkfzj;b0NX=C8=9?CgML2
+Z133 I8e`;0_K5DL05j9j4<W;H11
+Z134 V<=g<4PY[h5Lb4WXka5<c=3
+R4
+Z135 w1609158042
+Z136 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/FP_SQRT.v
+Z137 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/FP_SQRT.v
+L0 1
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/FP_SQRT.v|
+R10
+Z139 n@f@p_@s@q@r@t
+Z140 !s108 1609214916.674000
+Z141 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/FP_SQRT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT
+Z142 !s100 0E`hA7gRe`<`F]O:RziED2
+Z143 IkEgMcmgn3N?m31aV2>Jl=3
+Z144 VCh^N76ESXGfoT[zPR<NfR2
+R4
+Z145 w1608882742
+Z146 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v
+Z147 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v
+L0 1
+R8
+r1
+31
+Z148 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v|
+R10
+Z149 n@l@u@t
+Z150 !s108 1609214920.472000
+Z151 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT_Exponent
+Z152 !s100 SnHThTn=Sk[e5ZAYmdVnV0
+Z153 I;^Pl2Y[f7FGInLFHVkDm00
+Z154 Vz;=Eig]1OF5dZg:1?4Gdf1
+R4
+Z155 w1608872249
+Z156 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v
+Z157 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v
+L0 4
+R8
+r1
+31
+Z158 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v|
+R10
+Z159 n@l@u@t_@exponent
+Z160 !s108 1609214921.618000
+Z161 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOutputGenerator
+Z162 !s100 `6NVjhVWVai7d<RCRVFf52
+Z163 I]8z?B<o0P=G0LQTNAK5JR1
+Z164 V9DbcBjPbfR@`K2D9;BkCV3
+R4
+Z165 w1608963720
+Z166 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v
+Z167 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v
+L0 6
+R8
+r1
+31
+Z168 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v|
+R10
+Z169 n@output@generator
+Z170 !s108 1609214922.029000
+Z171 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPlusOneMant
+Z172 !s100 B0Ekc1>[bfCGO1b0[0o@@0
+Z173 IDDm24Z]J^KHJgI3>Z5joI2
+Z174 VFmSc[]Fl5;8;EjcZ;c;;82
+R4
+Z175 w1608880835
+Z176 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/PlusOneMant.v
+Z177 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/PlusOneMant.v
+L0 1
+R8
+r1
+31
+Z178 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/PlusOneMant.v|
+R10
+Z179 n@plus@one@mant
+Z180 !s108 1609214922.428000
+Z181 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/PlusOneMant.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_OE
+Z182 !s100 do4kUnSC4eze1a_=Cmae23
+Z183 IB0miN8^fj8=ERm9LW78g51
+Z184 VL6<RBH5fJ<09l4[nml];V0
+R4
+Z185 w1609137150
+Z186 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v
+Z187 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v
+L0 1
+R8
+r1
+31
+Z188 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v|
+R10
+Z189 nregister_@o@e
+Z190 !s108 1609214922.837000
+Z191 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z192 !s100 j33AWePDW1Afa:GfPRP252
+Z193 IffYb0iDdOCN:EY^YPfW@<3
+Z194 VjVf2YBNlSPMTY:MfPFH6W2
+R4
+Z195 w1609153945
+Z196 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v
+Z197 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v
+L0 1
+R8
+r1
+31
+Z198 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v|
+R10
+Z199 n@register@file
+Z200 !s108 1609214923.301000
+Z201 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+Z202 I9JaY]oF9AhWfcGLnY;zze1
+Z203 ViRmD]khCa0X0c1VeGnY5e3
+R4
+Z204 w1609214764
+Z205 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Testbench.v
+Z206 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Testbench.v
+L0 5
+R8
+r1
+31
+Z207 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Testbench.v|
+R10
+Z208 n@testbench
+Z209 !s100 ORFAEA3<lTGPbd2Jd`3[43
+Z210 !s108 1609214916.978000
+Z211 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vYhMinusYl
+Z212 !s100 H54eJk@DN8Tlil;P>clgH1
+Z213 I:FCkOQ9Tke1CR0gU^Z59Q1
+Z214 VY;khBWSYM=d9ofk8^Qazz2
+R4
+Z215 w1608102717
+Z216 8C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/YhMinusYl.v
+Z217 FC:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/YhMinusYl.v
+L0 1
+R8
+r1
+31
+Z218 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/YhMinusYl.v|
+R10
+Z219 n@yh@minus@yl
+Z220 !s108 1609214923.706000
+Z221 !s107 C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/YhMinusYl.v|
+!i10b 1
+!s85 0
+!s101 -O0

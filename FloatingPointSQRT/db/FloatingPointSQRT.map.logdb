@@ -1,1 +1,13 @@
 v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul1_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul1_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul1_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul0_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul2_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul2_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul2_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul1_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out6,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul2_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out6,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul0_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul0_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out6,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,Datapath:Datapath_Inst0|ALU:ALU_Inst0|FP_Div:FP_Divider|FP_Mul:Mul0_Inst|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out2,

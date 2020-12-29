@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\GitHub\Verilog-Assignments\FPAddSubModelSim
+vALU
+Z1 !s100 9EOTRP5]:gG<_iS_O=li;3
+Z2 I^YSfTok4UdlL@YQ]M8V[_1
+Z3 VWEh;05Fhb3HENf9O_=fJ;0
+Z4 dC:\GitHub\Verilog-Assignments\FP_ALU_ModelSim
+Z5 w1609078822
+Z6 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v
+Z7 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1609079117.754000
+Z13 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Mux4to1
+Z14 !s100 6_ejP<f@N]CegDm[]YX`?0
+Z15 ICg>3:0nokS0mXd`aQGMAF2
+Z16 VEiNDY4[I_e8jTjT]4jGca3
+R4
+Z17 w1609072966
+Z18 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v
+Z19 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v|
+R10
+Z21 n@a@l@u_@mux4to1
+Z22 !s108 1609079117.978000
+Z23 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Abs
+Z24 !s100 Vf[MSYoWI9fiNRo>h0iIX1
+Z25 IbcAzmoCm7Gn@:[O;D;h6L1
+Z26 VT1<iT124_@`E_j8GD>SHO3
+R4
+Z27 w1609077504
+Z28 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v
+Z29 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v|
+R10
+Z31 n@f@p_@abs
+Z32 !s108 1609079118.229000
+Z33 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Add
+Z34 !s100 f9PNfRANS2D^SIHUME?GA1
+Z35 InU1bB5@`0eX@J6VWd4`RX1
+Z36 V:84l1QOQXiPFF:=a1ib_42
+R4
+Z37 w1609071020
+Z38 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v
+Z39 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v|
+R10
+Z41 n@f@p_@add
+Z42 !s108 1609079118.672000
+Z43 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Div
+Z44 !s100 ePFOUg3gQ>iX:0hBaL?<80
+Z45 I@KP`EXf<M<CX`4]3WhQe50
+Z46 V`50NdXKO`_k4:7G8<<8]]2
+R4
+Z47 w1608906929
+Z48 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v
+Z49 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v|
+R10
+Z51 n@f@p_@div
+Z52 !s108 1609079118.985000
+Z53 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Mul
+Z54 !s100 FmHR>>l8LTom9GBK2OkzR0
+Z55 Ib_Z[^CNDLVQ=ljnBAFmz@1
+Z56 V>dBH2IX7Ll6Z7T4VodR162
+R4
+Z57 w1608869176
+Z58 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v
+Z59 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v|
+R10
+Z61 n@f@p_@mul
+Z62 !s108 1609079119.273000
+Z63 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT
+Z64 !s100 ao4oRQK1QM4D2GLB<fXPh2
+Z65 IU?RT4GliH[2U7oJVQz9?[0
+Z66 VCh^N76ESXGfoT[zPR<NfR2
+R4
+Z67 w1608882742
+Z68 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v
+Z69 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v|
+R10
+Z71 n@l@u@t
+Z72 !s108 1609079119.577000
+Z73 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT_Exponent
+Z74 !s100 E=BGR:o_inl2<L6SI36nc1
+Z75 IlaX_2A5ng?cmO0JETBB?K2
+Z76 Vz;=Eig]1OF5dZg:1?4Gdf1
+R4
+Z77 w1608872249
+Z78 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v
+Z79 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v
+L0 4
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v|
+R10
+Z81 n@l@u@t_@exponent
+Z82 !s108 1609079120.008000
+Z83 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOutputGenerator
+Z84 !s100 ]@kzo]7^TEkzDSbm@[fK<0
+Z85 I=0zT`HJkd3iA:BETBRXk10
+Z86 V9DbcBjPbfR@`K2D9;BkCV3
+R4
+Z87 w1608963720
+Z88 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v
+Z89 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v
+L0 6
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v|
+R10
+Z91 n@output@generator
+Z92 !s108 1609079120.283000
+Z93 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPlusOneMant
+Z94 !s100 W<GR:NnQ>FNoJO;^]EEb10
+Z95 IT28bkez`dUY^jVFZgYlZN3
+Z96 VFmSc[]Fl5;8;EjcZ;c;;82
+R4
+Z97 w1608880835
+Z98 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v
+Z99 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v
+L0 1
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v|
+R10
+Z101 n@plus@one@mant
+Z102 !s108 1609079120.569000
+Z103 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+Z104 I[EQ8@PG<0f@;NY;zBo4om2
+Z105 VJ]71FR0Yza]@iJGj@:bZE2
+R4
+Z106 w1609079101
+Z107 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v
+Z108 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v
+L0 3
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v|
+R10
+Z110 n@testbench
+!i10b 1
+Z111 !s100 ]W8ZaRk3:L<HWaVjagnnL3
+!s85 0
+Z112 !s108 1609079120.905000
+Z113 !s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v|
+!s101 -O0
+vYhMinusYl
+!i10b 1
+Z114 !s100 U?k@mnAYFmgG4Q:GaQLM92
+Z115 Iczme0`D^7a5?AZg^ceVzE2
+Z116 VY;khBWSYM=d9ofk8^Qazz2
+R4
+Z117 w1608102717
+Z118 8C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v
+Z119 FC:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1609079121.424000
+!s107 C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v|
+Z120 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v|
+!s101 -O0
+R10
+Z121 n@yh@minus@yl

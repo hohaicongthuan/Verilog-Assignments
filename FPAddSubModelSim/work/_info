@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\GitHub\Verilog-Assignments\FPDivModelSim
+vFP_Add
+!i10b 1
+Z1 !s100 ;lhGZPU6JE<Zan>n:]PAY3
+Z2 IM6`H4am`ePA[_U@Y:kodS2
+Z3 V:84l1QOQXiPFF:=a1ib_42
+Z4 dC:\GitHub\Verilog-Assignments\FPAddSubModelSim
+Z5 w1609071020
+Z6 8C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_Add.v
+Z7 FC:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_Add.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1609071394.048000
+!s107 C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_Add.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_Add.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@f@p_@add
+vFP_AddSub
+Z12 I6:BCSid]]FAioYP6c6=ZK2
+Z13 VE[2i8MWd]5bznd^BkUl?W0
+R4
+Z14 w1608978536
+Z15 8C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_AddSub.v
+Z16 FC:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_AddSub.v
+L0 1
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_AddSub.v|
+R10
+Z18 n@f@p_@add@sub
+Z19 !s100 2RVV8Ni5zOSazP:i?5=4A0
+Z20 !s108 1608978548.424000
+Z21 !s107 C:/GitHub/Verilog-Assignments/FPAddSubModelSim/FP_AddSub.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+Z22 IjIUl`TObcWI3?UfikOg5>3
+Z23 VJ]71FR0Yza]@iJGj@:bZE2
+R4
+Z24 w1609071389
+Z25 8C:/GitHub/Verilog-Assignments/FPAddSubModelSim/Testbench.v
+Z26 FC:/GitHub/Verilog-Assignments/FPAddSubModelSim/Testbench.v
+L0 3
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPAddSubModelSim/Testbench.v|
+R10
+Z28 n@testbench
+!i10b 1
+Z29 !s100 Ne9IU_e:]a=`P[ohSVG9o3
+!s85 0
+Z30 !s108 1609071393.771000
+Z31 !s107 C:/GitHub/Verilog-Assignments/FPAddSubModelSim/Testbench.v|
+!s101 -O0

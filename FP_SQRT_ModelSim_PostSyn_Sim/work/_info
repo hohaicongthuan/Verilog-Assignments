@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\GitHub\Verilog-Assignments\FP_SquareRoot_ModelSim
+vFP_SQRT
+Z1 !s100 @_6hfVAVcmK1XAz2;m[i70
+Z2 I_[80f`1KoMOdXXA=UXGh92
+Z3 V<=g<4PY[h5Lb4WXka5<c=3
+Z4 dC:\GitHub\Verilog-Assignments\FP_SQRT_ModelSim_PostSyn_Sim
+Z5 w1609168690
+Z6 8C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/FloatingPointSQRT.vo
+Z7 FC:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/FloatingPointSQRT.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/FloatingPointSQRT.vo|
+Z10 o-work work -O0
+Z11 n@f@p_@s@q@r@t
+!i10b 1
+!s85 0
+Z12 !s108 1609175383.135000
+Z13 !s107 C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/FloatingPointSQRT.vo|
+!s101 -O0
+vTestbench
+!i10b 1
+!s100 H:0Rdc:fMd0=5zUge?CUm3
+ID8GTmBnkRF;AHEZ<O8YW62
+VSFlPSgHfbQVQ1l6;hiKIN3
+R4
+w1609175371
+Z14 8C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/Testbench.v
+Z15 FC:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/Testbench.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1609175385.949000
+!s107 C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/Testbench.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FP_SQRT_ModelSim_PostSyn_Sim/Testbench.v|
+!s101 -O0
+R10
+Z17 n@testbench

@@ -1,0 +1,168 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vFP_Div
+Z1 !s100 [<i7gQKP3G5?8@MF=GaWc0
+Z2 I5hV9fA81mj8F1fzi68??h3
+Z3 V`50NdXKO`_k4:7G8<<8]]2
+Z4 dC:\GitHub\Verilog-Assignments\FPDivModelSim
+Z5 w1608906929
+Z6 8C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Div.v
+Z7 FC:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Div.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Div.v|
+Z10 o-work work -O0
+Z11 n@f@p_@div
+Z12 !s108 1608964129.354000
+Z13 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFP_Mul
+Z14 !s100 Z5_8Ha10:]QGLTdnXi=QB0
+Z15 I;JG=^mk:c4FHZ`UY@5Ojo1
+Z16 V>dBH2IX7Ll6Z7T4VodR162
+R4
+Z17 w1608869176
+Z18 8C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Mul.v
+Z19 FC:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Mul.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Mul.v|
+R10
+Z21 n@f@p_@mul
+Z22 !s108 1608964129.642000
+Z23 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/FP_Mul.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT
+Z24 !s100 <_RKR:z1GUc9TVY^BESe@2
+Z25 ICh@@<h5;DX5YNH7^V5YEo3
+Z26 VCh^N76ESXGfoT[zPR<NfR2
+R4
+Z27 w1608882742
+Z28 8C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT.v
+Z29 FC:/GitHub/Verilog-Assignments/FPDivModelSim/LUT.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT.v|
+R10
+Z31 n@l@u@t
+Z32 !s108 1608964129.912000
+Z33 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLUT_Exponent
+Z34 !s100 RT4M4EHIF3XQlENHNL21C3
+Z35 IE:`@18GKTnONC`G51OiU[2
+Z36 Vz;=Eig]1OF5dZg:1?4Gdf1
+R4
+Z37 w1608872249
+Z38 8C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT_Exponent.v
+Z39 FC:/GitHub/Verilog-Assignments/FPDivModelSim/LUT_Exponent.v
+L0 4
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT_Exponent.v|
+R10
+Z41 n@l@u@t_@exponent
+Z42 !s108 1608964130.308000
+Z43 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/LUT_Exponent.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOutputGenerator
+Z44 !s100 9P5h1I=kGWie8mgYma53Z3
+Z45 IV0j0`D3^dK:b:=D2nL37=1
+Z46 V9DbcBjPbfR@`K2D9;BkCV3
+R4
+Z47 w1608963720
+Z48 8C:/GitHub/Verilog-Assignments/FPDivModelSim/OutputGenerator.v
+Z49 FC:/GitHub/Verilog-Assignments/FPDivModelSim/OutputGenerator.v
+L0 6
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/OutputGenerator.v|
+R10
+Z51 n@output@generator
+Z52 !s108 1608964130.675000
+Z53 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/OutputGenerator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPlusOneMant
+Z54 !s100 6_jQ3KRdnA`gF>hnoUUA?3
+Z55 IG2VI06cfO6oJ14?T?7JKe3
+Z56 VFmSc[]Fl5;8;EjcZ;c;;82
+R4
+Z57 w1608880835
+Z58 8C:/GitHub/Verilog-Assignments/FPDivModelSim/PlusOneMant.v
+Z59 FC:/GitHub/Verilog-Assignments/FPDivModelSim/PlusOneMant.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/PlusOneMant.v|
+R10
+Z61 n@plus@one@mant
+Z62 !s108 1608964130.973000
+Z63 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/PlusOneMant.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+Z64 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z65 IYd8VE>16^1^GYX_WUz:2^0
+Z66 VJ]71FR0Yza]@iJGj@:bZE2
+Z67 !s105 Testbench_v_unit
+S1
+R4
+Z68 w1608964124
+Z69 8C:/GitHub/Verilog-Assignments/FPDivModelSim/Testbench.v
+Z70 FC:/GitHub/Verilog-Assignments/FPDivModelSim/Testbench.v
+L0 3
+R8
+r1
+31
+Z71 !s90 -reportprogress|300|-work|work|-sv|C:/GitHub/Verilog-Assignments/FPDivModelSim/Testbench.v|
+Z72 o-work work -sv -O0
+Z73 n@testbench
+!i10b 1
+Z74 !s100 BSXdh1IX>YF^h@2>1[Snc0
+!s85 0
+Z75 !s108 1608964131.225000
+Z76 !s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/Testbench.v|
+!s101 -O0
+vYhMinusYl
+!i10b 1
+Z77 !s100 VJeVd=T7Qe1[37l_CbSEE3
+Z78 I2fCT0T_[YZE4F;JaY0e^23
+Z79 VY;khBWSYM=d9ofk8^Qazz2
+R4
+Z80 w1608102717
+Z81 8C:/GitHub/Verilog-Assignments/FPDivModelSim/YhMinusYl.v
+Z82 FC:/GitHub/Verilog-Assignments/FPDivModelSim/YhMinusYl.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1608964131.554000
+!s107 C:/GitHub/Verilog-Assignments/FPDivModelSim/YhMinusYl.v|
+Z83 !s90 -reportprogress|300|-work|work|C:/GitHub/Verilog-Assignments/FPDivModelSim/YhMinusYl.v|
+!s101 -O0
+R10
+Z84 n@yh@minus@yl

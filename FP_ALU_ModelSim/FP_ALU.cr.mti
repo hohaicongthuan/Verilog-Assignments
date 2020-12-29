@@ -1,0 +1,85 @@
+C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Div.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FP_Div
+
+Top level modules:
+	FP_Div
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/OutputGenerator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OutputGenerator
+
+Top level modules:
+	OutputGenerator
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT_Exponent.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LUT_Exponent
+
+Top level modules:
+	LUT_Exponent
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/PlusOneMant.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PlusOneMant
+
+Top level modules:
+	PlusOneMant
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/Testbench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/YhMinusYl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module YhMinusYl
+
+Top level modules:
+	YhMinusYl
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/ALU_Mux4to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_Mux4to1
+
+Top level modules:
+	ALU_Mux4to1
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Abs.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FP_Abs
+
+Top level modules:
+	FP_Abs
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Mul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FP_Mul
+
+Top level modules:
+	FP_Mul
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/LUT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_ALU_ModelSim/FP_Add.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FP_Add
+
+Top level modules:
+	FP_Add
+
+} {} {}}

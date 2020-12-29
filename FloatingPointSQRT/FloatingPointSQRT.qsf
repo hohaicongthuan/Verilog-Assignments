@@ -38,7 +38,7 @@
 
 set_global_assignment -name FAMILY "Cyclone II"
 set_global_assignment -name DEVICE EP2C35F672C6
-set_global_assignment -name TOP_LEVEL_ENTITY FP_MulDiv
+set_global_assignment -name TOP_LEVEL_ENTITY FP_SQRT
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "10:22:08  NOVEMBER 18, 2020"
 set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
@@ -51,14 +51,34 @@ set_global_assignment -name DEVICE_FILTER_SPEED_GRADE FASTEST
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
 set_global_assignment -name SIMULATION_MODE FUNCTIONAL
 set_global_assignment -name VECTOR_OUTPUT_FORMAT VWF
-set_global_assignment -name VERILOG_FILE FP_AddSub.v
-set_global_assignment -name VERILOG_FILE FloatingPointSQRT.v
-set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform.vwf
 set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
 set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
-set_global_assignment -name VERILOG_FILE FP_MulDiv.v
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "C:/GitHub/Verilog-Assignments/FP_SQRT/Datapath/RegisterFile_Test.vwf"
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
-set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE "C:/GitHub/Verilog-Assignments/FloatingPointSQRT/Waveform.vwf"
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/YhMinusYl.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/RegisterFile.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/register_OE.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/PlusOneMant.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/LUT.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/FP_Mul.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/FP_Div.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/FP_Add.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/FP_Abs.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/Datapath_OutputGen.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/Datapath.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/ALU_Mux4to1.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Datapath/ALU.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Controller/Controller_Reg.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Controller/Controller_Outputs.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Controller/Controller_NextState.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/Controller/Controller.v
+set_global_assignment -name VERILOG_FILE ../FP_SquareRoot_ModelSim/FP_SQRT.v
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
