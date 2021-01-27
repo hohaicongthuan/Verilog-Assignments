@@ -3,8 +3,8 @@
  `timescale 1ns/1ps
 
 module Testbench();
-    parameter waittime = 5000;
-    parameter clocktime = 50;
+    parameter waittime = 3000;
+    parameter clocktime = 30;
     parameter DATAWIDTH = 32;
     integer i, outfile;
 

@@ -31,7 +31,7 @@ AverageError = 0.0
 NumOfTest = 0
 
 for i in f:
-    x = round(x + 0.1, 10)
+    x = round(x + 1.0, 10)
     print("Test Number x =\t\t\t", x)
     print("Square root of x =\t\t", math.sqrt(x))
     Sign    = i[:1]

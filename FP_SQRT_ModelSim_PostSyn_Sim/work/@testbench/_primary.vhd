@@ -2,8 +2,8 @@ library verilog;
 use verilog.vl_types.all;
 entity Testbench is
     generic(
-        waittime        : integer := 5000;
-        clocktime       : integer := 50;
+        waittime        : integer := 3000;
+        clocktime       : integer := 30;
         DATAWIDTH       : integer := 32
     );
     attribute mti_svvh_generic_type : integer;

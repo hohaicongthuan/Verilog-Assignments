@@ -89,12 +89,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	Controller_Outputs
 
-} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v
+} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module LUT_Exponent
+-- Compiling module RegisterFile
 
 Top level modules:
-	LUT_Exponent
+	RegisterFile
 
 } {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -103,12 +103,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	LUT
 
-} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/RegisterFile.v
+} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/LUT_Exponent.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module RegisterFile
+-- Compiling module LUT_Exponent
 
 Top level modules:
-	RegisterFile
+	LUT_Exponent
 
 } {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/Datapath_Mux2to1.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -117,19 +117,19 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	Datapath_Mux2to1
 
-} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module OutputGenerator
-
-Top level modules:
-	OutputGenerator
-
 } {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/register_OE.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module register_OE
 
 Top level modules:
 	register_OE
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/OutputGenerator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OutputGenerator
+
+Top level modules:
+	OutputGenerator
 
 } {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/ALU.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -138,18 +138,18 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	ALU
 
-} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module FP_Mul
-
-Top level modules:
-	FP_Mul
-
 } {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Abs.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module FP_Abs
 
 Top level modules:
 	FP_Abs
+
+} {} {}} C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v {1 {vlog -work work C:/GitHub/Verilog-Assignments/FP_SquareRoot_ModelSim/Datapath/FP_Mul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FP_Mul
+
+Top level modules:
+	FP_Mul
 
 } {} {}}

@@ -1,501 +1,501 @@
-Test Number x =			 0.1
-Square root of x =		 0.31622776601683794
-Result from FP_SQRT:	 0.3162277340888977
-Error:					 3.192794023609835e-08
-
-Test Number x =			 0.2
-Square root of x =		 0.4472135954999579
-Result from FP_SQRT:	 0.4472135603427887
-Error:					 3.515716923141454e-08
-
-Test Number x =			 0.3
-Square root of x =		 0.5477225575051661
-Result from FP_SQRT:	 0.5477225184440613
-Error:					 3.9061104795123924e-08
-
-Test Number x =			 0.4
-Square root of x =		 0.6324555320336759
-Result from FP_SQRT:	 0.6324554681777954
-Error:					 6.38558804721967e-08
-
-Test Number x =			 0.5
-Square root of x =		 0.7071067811865476
-Result from FP_SQRT:	 0.7071070075035095
-Error:					 2.2631696194874706e-07
-
-Test Number x =			 0.6
-Square root of x =		 0.7745966692414834
-Result from FP_SQRT:	 0.774596631526947
-Error:					 3.771453638279354e-08
-
-Test Number x =			 0.7
-Square root of x =		 0.8366600265340756
-Result from FP_SQRT:	 0.8366599678993225
-Error:					 5.863475305289967e-08
-
-Test Number x =			 0.8
-Square root of x =		 0.8944271909999159
-Result from FP_SQRT:	 0.8944271206855774
-Error:					 7.031433846282908e-08
-
-Test Number x =			 0.9
-Square root of x =		 0.9486832980505138
-Result from FP_SQRT:	 0.9486832618713379
-Error:					 3.617917587739328e-08
-
 Test Number x =			 1.0
 Square root of x =		 1.0
 Result from FP_SQRT:	 1.0
 Error:					 0.0
 
-Test Number x =			 1.1
-Square root of x =		 1.0488088481701516
-Result from FP_SQRT:	 1.0488086938858032
-Error:					 1.542843484081402e-07
-
-Test Number x =			 1.2
-Square root of x =		 1.0954451150103321
-Result from FP_SQRT:	 1.0954450368881226
-Error:					 7.812220959024785e-08
-
-Test Number x =			 1.3
-Square root of x =		 1.140175425099138
-Result from FP_SQRT:	 1.1401753425598145
-Error:					 8.253932359814087e-08
-
-Test Number x =			 1.4
-Square root of x =		 1.1832159566199232
-Result from FP_SQRT:	 1.183215856552124
-Error:					 1.0006779915805453e-07
-
-Test Number x =			 1.5
-Square root of x =		 1.224744871391589
-Result from FP_SQRT:	 1.2247447967529297
-Error:					 7.463865925316782e-08
-
-Test Number x =			 1.6
-Square root of x =		 1.2649110640673518
-Result from FP_SQRT:	 1.2649109363555908
-Error:					 1.277117609443934e-07
-
-Test Number x =			 1.7
-Square root of x =		 1.3038404810405297
-Result from FP_SQRT:	 1.3038403987884521
-Error:					 8.225207759338105e-08
-
-Test Number x =			 1.8
-Square root of x =		 1.3416407864998738
-Result from FP_SQRT:	 1.3416407108306885
-Error:					 7.566918536205947e-08
-
-Test Number x =			 1.9
-Square root of x =		 1.378404875209022
-Result from FP_SQRT:	 1.3784047365188599
-Error:					 1.386901622435488e-07
-
 Test Number x =			 2.0
 Square root of x =		 1.4142135623730951
-Result from FP_SQRT:	 1.414214015007019
-Error:					 4.5263392389749413e-07
-
-Test Number x =			 2.1
-Square root of x =		 1.449137674618944
-Result from FP_SQRT:	 1.449137568473816
-Error:					 1.0614512802042952e-07
-
-Test Number x =			 2.2
-Square root of x =		 1.4832396974191326
-Result from FP_SQRT:	 1.4832396507263184
-Error:					 4.669281428171246e-08
-
-Test Number x =			 2.3
-Square root of x =		 1.51657508881031
-Result from FP_SQRT:	 1.5165749788284302
-Error:					 1.099818798255825e-07
-
-Test Number x =			 2.4
-Square root of x =		 1.5491933384829668
-Result from FP_SQRT:	 1.549193263053894
-Error:					 7.542907276558708e-08
-
-Test Number x =			 2.5
-Square root of x =		 1.5811388300841898
-Result from FP_SQRT:	 1.5811387300491333
-Error:					 1.0003505646061228e-07
-
-Test Number x =			 2.6
-Square root of x =		 1.61245154965971
-Result from FP_SQRT:	 1.612451434135437
-Error:					 1.1552427303662682e-07
-
-Test Number x =			 2.7
-Square root of x =		 1.6431676725154984
-Result from FP_SQRT:	 1.643167495727539
-Error:					 1.76787959382807e-07
-
-Test Number x =			 2.8
-Square root of x =		 1.6733200530681511
-Result from FP_SQRT:	 1.673319935798645
-Error:					 1.1726950610579934e-07
-
-Test Number x =			 2.9
-Square root of x =		 1.70293863659264
-Result from FP_SQRT:	 1.702938437461853
-Error:					 1.9913078697086917e-07
+Result from FP_SQRT:	 1.0606602430343628
+Error:					 0.35355331933873235
 
 Test Number x =			 3.0
 Square root of x =		 1.7320508075688772
 Result from FP_SQRT:	 1.7320506572723389
 Error:					 1.502965383259891e-07
 
-Test Number x =			 3.1
-Square root of x =		 1.760681686165901
-Result from FP_SQRT:	 1.7606816291809082
-Error:					 5.6984992724551375e-08
-
-Test Number x =			 3.2
-Square root of x =		 1.7888543819998317
-Result from FP_SQRT:	 1.7888542413711548
-Error:					 1.4062867692565817e-07
-
-Test Number x =			 3.3
-Square root of x =		 1.816590212458495
-Result from FP_SQRT:	 1.8165900707244873
-Error:					 1.41734007641503e-07
-
-Test Number x =			 3.4
-Square root of x =		 1.8439088914585775
-Result from FP_SQRT:	 1.843908667564392
-Error:					 2.2389418541379769e-07
-
-Test Number x =			 3.5
-Square root of x =		 1.8708286933869707
-Result from FP_SQRT:	 1.870828628540039
-Error:					 6.484693160224708e-08
-
-Test Number x =			 3.6
-Square root of x =		 1.8973665961010275
-Result from FP_SQRT:	 1.8973665237426758
-Error:					 7.235835175478655e-08
-
-Test Number x =			 3.7
-Square root of x =		 1.9235384061671346
-Result from FP_SQRT:	 1.9235382080078125
-Error:					 1.9815932206235232e-07
-
-Test Number x =			 3.8
-Square root of x =		 1.9493588689617927
-Result from FP_SQRT:	 1.9493588209152222
-Error:					 4.804657049994887e-08
-
-Test Number x =			 3.9
-Square root of x =		 1.9748417658131499
-Result from FP_SQRT:	 1.974841594696045
-Error:					 1.7111710493011856e-07
-
 Test Number x =			 4.0
 Square root of x =		 2.0
 Result from FP_SQRT:	 2.0
 Error:					 0.0
-
-Test Number x =			 4.1
-Square root of x =		 2.0248456731316584
-Result from FP_SQRT:	 2.0248453617095947
-Error:					 3.1142206369239034e-07
-
-Test Number x =			 4.2
-Square root of x =		 2.04939015319192
-Result from FP_SQRT:	 2.0493898391723633
-Error:					 3.140195565798365e-07
-
-Test Number x =			 4.3
-Square root of x =		 2.073644135332772
-Result from FP_SQRT:	 2.073643922805786
-Error:					 2.125269857877754e-07
-
-Test Number x =			 4.4
-Square root of x =		 2.0976176963403033
-Result from FP_SQRT:	 2.0976173877716064
-Error:					 3.085686968162804e-07
-
-Test Number x =			 4.5
-Square root of x =		 2.1213203435596424
-Result from FP_SQRT:	 2.1213202476501465
-Error:					 9.590949590077003e-08
-
-Test Number x =			 4.6
-Square root of x =		 2.1447610589527217
-Result from FP_SQRT:	 2.144760847091675
-Error:					 2.1186104692816343e-07
-
-Test Number x =			 4.7
-Square root of x =		 2.16794833886788
-Result from FP_SQRT:	 2.167948007583618
-Error:					 3.31284261800846e-07
-
-Test Number x =			 4.8
-Square root of x =		 2.1908902300206643
-Result from FP_SQRT:	 2.190890073776245
-Error:					 1.562444191804957e-07
-
-Test Number x =			 4.9
-Square root of x =		 2.2135943621178655
-Result from FP_SQRT:	 2.2135941982269287
-Error:					 1.6389093682178668e-07
 
 Test Number x =			 5.0
 Square root of x =		 2.23606797749979
 Result from FP_SQRT:	 2.236067771911621
 Error:					 2.0558816871130148e-07
 
-Test Number x =			 5.1
-Square root of x =		 2.258317958127243
-Result from FP_SQRT:	 2.258317708969116
-Error:					 2.4915812657511083e-07
-
-Test Number x =			 5.2
-Square root of x =		 2.280350850198276
-Result from FP_SQRT:	 2.280350685119629
-Error:					 1.6507864719628174e-07
-
-Test Number x =			 5.3
-Square root of x =		 2.3021728866442674
-Result from FP_SQRT:	 2.3021726608276367
-Error:					 2.2581663072784863e-07
-
-Test Number x =			 5.4
-Square root of x =		 2.32379000772445
-Result from FP_SQRT:	 2.3237898349761963
-Error:					 1.7274825392377124e-07
-
-Test Number x =			 5.5
-Square root of x =		 2.345207879911715
-Result from FP_SQRT:	 2.345207691192627
-Error:					 1.8871908791240344e-07
-
-Test Number x =			 5.6
-Square root of x =		 2.3664319132398464
-Result from FP_SQRT:	 2.366431951522827
-Error:					 3.8282980785453447e-08
-
-Test Number x =			 5.7
-Square root of x =		 2.3874672772626644
-Result from FP_SQRT:	 2.3874671459198
-Error:					 1.3134286458438282e-07
-
-Test Number x =			 5.8
-Square root of x =		 2.4083189157584592
-Result from FP_SQRT:	 2.4083187580108643
-Error:					 1.577475949865459e-07
-
-Test Number x =			 5.9
-Square root of x =		 2.4289915602982237
-Result from FP_SQRT:	 2.4289913177490234
-Error:					 2.425492002799956e-07
-
 Test Number x =			 6.0
 Square root of x =		 2.449489742783178
 Result from FP_SQRT:	 2.4494895935058594
 Error:					 1.4927731850633563e-07
-
-Test Number x =			 6.1
-Square root of x =		 2.4698178070456938
-Result from FP_SQRT:	 2.469817876815796
-Error:					 6.977010214015422e-08
-
-Test Number x =			 6.2
-Square root of x =		 2.4899799195977463
-Result from FP_SQRT:	 2.4899797439575195
-Error:					 1.7564022680716107e-07
-
-Test Number x =			 6.3
-Square root of x =		 2.5099800796022267
-Result from FP_SQRT:	 2.5099799633026123
-Error:					 1.1629961438330838e-07
-
-Test Number x =			 6.4
-Square root of x =		 2.5298221281347035
-Result from FP_SQRT:	 2.5298218727111816
-Error:					 2.554235218887868e-07
-
-Test Number x =			 6.5
-Square root of x =		 2.5495097567963922
-Result from FP_SQRT:	 2.5495095252990723
-Error:					 2.3149731998017842e-07
-
-Test Number x =			 6.6
-Square root of x =		 2.569046515733026
-Result from FP_SQRT:	 2.5690464973449707
-Error:					 1.838805507858865e-08
-
-Test Number x =			 6.7
-Square root of x =		 2.588435821108957
-Result from FP_SQRT:	 2.588435649871826
-Error:					 1.7123713069722157e-07
-
-Test Number x =			 6.8
-Square root of x =		 2.6076809620810595
-Result from FP_SQRT:	 2.6076807975769043
-Error:					 1.645041551867621e-07
-
-Test Number x =			 6.9
-Square root of x =		 2.6267851073127395
-Result from FP_SQRT:	 2.6267848014831543
-Error:					 3.058295852120807e-07
 
 Test Number x =			 7.0
 Square root of x =		 2.6457513110645907
 Result from FP_SQRT:	 2.6457512378692627
 Error:					 7.31953280208586e-08
 
-Test Number x =			 7.1
-Square root of x =		 2.6645825188948455
-Result from FP_SQRT:	 2.6645822525024414
-Error:					 2.6639240413572907e-07
-
-Test Number x =			 7.2
-Square root of x =		 2.6832815729997477
-Result from FP_SQRT:	 2.683281421661377
-Error:					 1.5133837072411893e-07
-
-Test Number x =			 7.3
-Square root of x =		 2.701851217221259
-Result from FP_SQRT:	 2.7018508911132812
-Error:					 3.2610797795484814e-07
-
-Test Number x =			 7.4
-Square root of x =		 2.7202941017470885
-Result from FP_SQRT:	 2.7202937602996826
-Error:					 3.414474059049155e-07
-
-Test Number x =			 7.5
-Square root of x =		 2.7386127875258306
-Result from FP_SQRT:	 2.738612651824951
-Error:					 1.357008794222736e-07
-
-Test Number x =			 7.6
-Square root of x =		 2.756809750418044
-Result from FP_SQRT:	 2.7568094730377197
-Error:					 2.773803244870976e-07
-
-Test Number x =			 7.7
-Square root of x =		 2.7748873851023217
-Result from FP_SQRT:	 2.7748870849609375
-Error:					 3.001413841907663e-07
-
-Test Number x =			 7.8
-Square root of x =		 2.792848008753788
-Result from FP_SQRT:	 2.7928478717803955
-Error:					 1.3697339262819241e-07
-
-Test Number x =			 7.9
-Square root of x =		 2.8106938645110393
-Result from FP_SQRT:	 2.8106937408447266
-Error:					 1.2366631274574047e-07
-
 Test Number x =			 8.0
 Square root of x =		 2.8284271247461903
-Result from FP_SQRT:	 2.8307840824127197
-Error:					 0.0023569576665294356
-
-Test Number x =			 8.1
-Square root of x =		 2.8460498941515415
-Result from FP_SQRT:	 2.8460495471954346
-Error:					 3.4695610695578694e-07
-
-Test Number x =			 8.2
-Square root of x =		 2.8635642126552705
-Result from FP_SQRT:	 2.8635640144348145
-Error:					 1.982204560491141e-07
-
-Test Number x =			 8.3
-Square root of x =		 2.8809720581775866
-Result from FP_SQRT:	 2.880971908569336
-Error:					 1.4960825067689143e-07
-
-Test Number x =			 8.4
-Square root of x =		 2.898275349237888
-Result from FP_SQRT:	 2.898275136947632
-Error:					 2.1229025604085905e-07
-
-Test Number x =			 8.5
-Square root of x =		 2.9154759474226504
-Result from FP_SQRT:	 2.915475845336914
-Error:					 1.0208573630876572e-07
-
-Test Number x =			 8.6
-Square root of x =		 2.932575659723036
-Result from FP_SQRT:	 2.9325754642486572
-Error:					 1.9547437890565789e-07
-
-Test Number x =			 8.7
-Square root of x =		 2.949576240750525
-Result from FP_SQRT:	 2.9495761394500732
-Error:					 1.0130045158263101e-07
-
-Test Number x =			 8.8
-Square root of x =		 2.9664793948382653
-Result from FP_SQRT:	 2.9664793014526367
-Error:					 9.338562856342492e-08
-
-Test Number x =			 8.9
-Square root of x =		 2.9832867780352594
-Result from FP_SQRT:	 2.9832866191864014
-Error:					 1.588488580672731e-07
+Result from FP_SQRT:	 2.828428030014038
+Error:					 9.052678477949883e-07
 
 Test Number x =			 9.0
 Square root of x =		 3.0
 Result from FP_SQRT:	 3.0
 Error:					 0.0
 
-Test Number x =			 9.1
-Square root of x =		 3.0166206257996713
-Result from FP_SQRT:	 3.016620397567749
-Error:					 2.282319222501883e-07
-
-Test Number x =			 9.2
-Square root of x =		 3.03315017762062
-Result from FP_SQRT:	 3.0331501960754395
-Error:					 1.8454819450397508e-08
-
-Test Number x =			 9.3
-Square root of x =		 3.0495901363953815
-Result from FP_SQRT:	 3.0495898723602295
-Error:					 2.6403515196449234e-07
-
-Test Number x =			 9.4
-Square root of x =		 3.0659419433511785
-Result from FP_SQRT:	 3.06594181060791
-Error:					 1.327432683773111e-07
-
-Test Number x =			 9.5
-Square root of x =		 3.082207001484488
-Result from FP_SQRT:	 3.082206964492798
-Error:					 3.6991690155474544e-08
-
-Test Number x =			 9.6
-Square root of x =		 3.0983866769659336
-Result from FP_SQRT:	 3.098386526107788
-Error:					 1.5085814553117416e-07
-
-Test Number x =			 9.7
-Square root of x =		 3.1144823004794873
-Result from FP_SQRT:	 3.1144821643829346
-Error:					 1.3609655269419818e-07
-
-Test Number x =			 9.8
-Square root of x =		 3.1304951684997055
-Result from FP_SQRT:	 3.130495071411133
-Error:					 9.708857273693638e-08
-
-Test Number x =			 9.9
-Square root of x =		 3.146426544510455
-Result from FP_SQRT:	 3.1464264392852783
-Error:					 1.0522517657207686e-07
-
 Test Number x =			 10.0
 Square root of x =		 3.1622776601683795
 Result from FP_SQRT:	 3.1622774600982666
 Error:					 2.0007011292122456e-07
 
-Average Error:	 2.371839436363765e-05
+Test Number x =			 11.0
+Square root of x =		 3.3166247903554
+Result from FP_SQRT:	 3.316624641418457
+Error:					 1.4893694277873237e-07
+
+Test Number x =			 12.0
+Square root of x =		 3.4641016151377544
+Result from FP_SQRT:	 3.4641013145446777
+Error:					 3.005930766519782e-07
+
+Test Number x =			 13.0
+Square root of x =		 3.605551275463989
+Result from FP_SQRT:	 3.60555100440979
+Error:					 2.710541990857962e-07
+
+Test Number x =			 14.0
+Square root of x =		 3.7416573867739413
+Result from FP_SQRT:	 3.741657257080078
+Error:					 1.2969386320449416e-07
+
+Test Number x =			 15.0
+Square root of x =		 3.872983346207417
+Result from FP_SQRT:	 3.87298321723938
+Error:					 1.2896803713857707e-07
+
+Test Number x =			 16.0
+Square root of x =		 4.0
+Result from FP_SQRT:	 4.0
+Error:					 0.0
+
+Test Number x =			 17.0
+Square root of x =		 4.123105625617661
+Result from FP_SQRT:	 4.123105525970459
+Error:					 9.964720160127172e-08
+
+Test Number x =			 18.0
+Square root of x =		 4.242640687119285
+Result from FP_SQRT:	 4.242640495300293
+Error:					 1.9181899180154005e-07
+
+Test Number x =			 19.0
+Square root of x =		 4.358898943540674
+Result from FP_SQRT:	 4.358898639678955
+Error:					 3.038617188977355e-07
+
+Test Number x =			 20.0
+Square root of x =		 4.47213595499958
+Result from FP_SQRT:	 4.472135543823242
+Error:					 4.1117633742260296e-07
+
+Test Number x =			 21.0
+Square root of x =		 4.58257569495584
+Result from FP_SQRT:	 4.58257532119751
+Error:					 3.7375833006336734e-07
+
+Test Number x =			 22.0
+Square root of x =		 4.69041575982343
+Result from FP_SQRT:	 4.690415382385254
+Error:					 3.774381758248069e-07
+
+Test Number x =			 23.0
+Square root of x =		 4.795831523312719
+Result from FP_SQRT:	 4.795831203460693
+Error:					 3.198520257541304e-07
+
+Test Number x =			 24.0
+Square root of x =		 4.898979485566356
+Result from FP_SQRT:	 4.898979187011719
+Error:					 2.9855463701267126e-07
+
+Test Number x =			 25.0
+Square root of x =		 5.0
+Result from FP_SQRT:	 5.0
+Error:					 0.0
+
+Test Number x =			 26.0
+Square root of x =		 5.0990195135927845
+Result from FP_SQRT:	 5.0990190505981445
+Error:					 4.6299463996035684e-07
+
+Test Number x =			 27.0
+Square root of x =		 5.196152422706632
+Result from FP_SQRT:	 5.196152210235596
+Error:					 2.1247103632049402e-07
+
+Test Number x =			 28.0
+Square root of x =		 5.291502622129181
+Result from FP_SQRT:	 5.291502475738525
+Error:					 1.463906560417172e-07
+
+Test Number x =			 29.0
+Square root of x =		 5.385164807134504
+Result from FP_SQRT:	 5.385164737701416
+Error:					 6.943308772378032e-08
+
+Test Number x =			 30.0
+Square root of x =		 5.477225575051661
+Result from FP_SQRT:	 5.477225303649902
+Error:					 2.714017588445472e-07
+
+Test Number x =			 31.0
+Square root of x =		 5.5677643628300215
+Result from FP_SQRT:	 5.5677642822265625
+Error:					 8.060345901839128e-08
+
+Test Number x =			 32.0
+Square root of x =		 5.656854249492381
+Result from FP_SQRT:	 5.6615681648254395
+Error:					 0.004713915333058871
+
+Test Number x =			 33.0
+Square root of x =		 5.744562646538029
+Result from FP_SQRT:	 5.74456262588501
+Error:					 2.0653018850680382e-08
+
+Test Number x =			 34.0
+Square root of x =		 5.830951894845301
+Result from FP_SQRT:	 5.830951690673828
+Error:					 2.0417147261753144e-07
+
+Test Number x =			 35.0
+Square root of x =		 5.916079783099616
+Result from FP_SQRT:	 5.916079521179199
+Error:					 2.6192041691075474e-07
+
+Test Number x =			 36.0
+Square root of x =		 6.0
+Result from FP_SQRT:	 6.0
+Error:					 0.0
+
+Test Number x =			 37.0
+Square root of x =		 6.082762530298219
+Result from FP_SQRT:	 6.082762241363525
+Error:					 2.889346939483062e-07
+
+Test Number x =			 38.0
+Square root of x =		 6.164414002968976
+Result from FP_SQRT:	 6.164413928985596
+Error:					 7.398338031094909e-08
+
+Test Number x =			 39.0
+Square root of x =		 6.244997998398398
+Result from FP_SQRT:	 6.244997501373291
+Error:					 4.970251072933252e-07
+
+Test Number x =			 40.0
+Square root of x =		 6.324555320336759
+Result from FP_SQRT:	 6.324554920196533
+Error:					 4.0014022584244913e-07
+
+Test Number x =			 41.0
+Square root of x =		 6.4031242374328485
+Result from FP_SQRT:	 6.40312385559082
+Error:					 3.8184202821867075e-07
+
+Test Number x =			 42.0
+Square root of x =		 6.48074069840786
+Result from FP_SQRT:	 6.480740070343018
+Error:					 6.280648428003133e-07
+
+Test Number x =			 43.0
+Square root of x =		 6.557438524302
+Result from FP_SQRT:	 6.557438373565674
+Error:					 1.5073632653184177e-07
+
+Test Number x =			 44.0
+Square root of x =		 6.6332495807108
+Result from FP_SQRT:	 6.633249282836914
+Error:					 2.9787388555746475e-07
+
+Test Number x =			 45.0
+Square root of x =		 6.708203932499369
+Result from FP_SQRT:	 6.7082037925720215
+Error:					 1.3992734793077943e-07
+
+Test Number x =			 46.0
+Square root of x =		 6.782329983125268
+Result from FP_SQRT:	 6.782329559326172
+Error:					 4.237990962607796e-07
+
+Test Number x =			 47.0
+Square root of x =		 6.855654600401044
+Result from FP_SQRT:	 6.855654239654541
+Error:					 3.607465028920842e-07
+
+Test Number x =			 48.0
+Square root of x =		 6.928203230275509
+Result from FP_SQRT:	 6.9282026290893555
+Error:					 6.011861533039564e-07
+
+Test Number x =			 49.0
+Square root of x =		 7.0
+Result from FP_SQRT:	 7.0
+Error:					 0.0
+
+Test Number x =			 50.0
+Square root of x =		 7.0710678118654755
+Result from FP_SQRT:	 7.0710673332214355
+Error:					 4.786440399584535e-07
+
+Test Number x =			 51.0
+Square root of x =		 7.14142842854285
+Result from FP_SQRT:	 7.141427993774414
+Error:					 4.347684363636972e-07
+
+Test Number x =			 52.0
+Square root of x =		 7.211102550927978
+Result from FP_SQRT:	 7.211102485656738
+Error:					 6.52712399684674e-08
+
+Test Number x =			 53.0
+Square root of x =		 7.280109889280518
+Result from FP_SQRT:	 7.280109405517578
+Error:					 4.837629399290222e-07
+
+Test Number x =			 54.0
+Square root of x =		 7.3484692283495345
+Result from FP_SQRT:	 7.348469257354736
+Error:					 2.9005201795939684e-08
+
+Test Number x =			 55.0
+Square root of x =		 7.416198487095663
+Result from FP_SQRT:	 7.416198253631592
+Error:					 2.3346407118651769e-07
+
+Test Number x =			 56.0
+Square root of x =		 7.483314773547883
+Result from FP_SQRT:	 7.483314514160156
+Error:					 2.5938772640898833e-07
+
+Test Number x =			 57.0
+Square root of x =		 7.54983443527075
+Result from FP_SQRT:	 7.549834251403809
+Error:					 1.8386694122796143e-07
+
+Test Number x =			 58.0
+Square root of x =		 7.615773105863909
+Result from FP_SQRT:	 7.615772724151611
+Error:					 3.8171229732597567e-07
+
+Test Number x =			 59.0
+Square root of x =		 7.681145747868608
+Result from FP_SQRT:	 7.681145191192627
+Error:					 5.566759808672828e-07
+
+Test Number x =			 60.0
+Square root of x =		 7.745966692414834
+Result from FP_SQRT:	 7.74596643447876
+Error:					 2.5793607427715415e-07
+
+Test Number x =			 61.0
+Square root of x =		 7.810249675906654
+Result from FP_SQRT:	 7.810249328613281
+Error:					 3.472933727266536e-07
+
+Test Number x =			 62.0
+Square root of x =		 7.874007874011811
+Result from FP_SQRT:	 7.874007225036621
+Error:					 6.489751900318197e-07
+
+Test Number x =			 63.0
+Square root of x =		 7.937253933193772
+Result from FP_SQRT:	 7.937253475189209
+Error:					 4.580045631641383e-07
+
+Test Number x =			 64.0
+Square root of x =		 8.0
+Result from FP_SQRT:	 8.0
+Error:					 0.0
+
+Test Number x =			 65.0
+Square root of x =		 8.06225774829855
+Result from FP_SQRT:	 8.062256813049316
+Error:					 9.352492327252548e-07
+
+Test Number x =			 66.0
+Square root of x =		 8.12403840463596
+Result from FP_SQRT:	 8.124037742614746
+Error:					 6.620212147367965e-07
+
+Test Number x =			 67.0
+Square root of x =		 8.18535277187245
+Result from FP_SQRT:	 8.185352325439453
+Error:					 4.464329972364567e-07
+
+Test Number x =			 68.0
+Square root of x =		 8.246211251235321
+Result from FP_SQRT:	 8.246211051940918
+Error:					 1.9929440320254344e-07
+
+Test Number x =			 69.0
+Square root of x =		 8.306623862918075
+Result from FP_SQRT:	 8.306623458862305
+Error:					 4.0405577017565975e-07
+
+Test Number x =			 70.0
+Square root of x =		 8.366600265340756
+Result from FP_SQRT:	 8.366600036621094
+Error:					 2.2871966187665294e-07
+
+Test Number x =			 71.0
+Square root of x =		 8.426149773176359
+Result from FP_SQRT:	 8.426149368286133
+Error:					 4.048902262354659e-07
+
+Test Number x =			 72.0
+Square root of x =		 8.48528137423857
+Result from FP_SQRT:	 8.485280990600586
+Error:					 3.836379836030801e-07
+
+Test Number x =			 73.0
+Square root of x =		 8.54400374531753
+Result from FP_SQRT:	 8.5440034866333
+Error:					 2.586842295926317e-07
+
+Test Number x =			 74.0
+Square root of x =		 8.602325267042627
+Result from FP_SQRT:	 8.602325439453125
+Error:					 1.724104983225061e-07
+
+Test Number x =			 75.0
+Square root of x =		 8.660254037844387
+Result from FP_SQRT:	 8.660253524780273
+Error:					 5.130641138606507e-07
+
+Test Number x =			 76.0
+Square root of x =		 8.717797887081348
+Result from FP_SQRT:	 8.71779727935791
+Error:					 6.07723437795471e-07
+
+Test Number x =			 77.0
+Square root of x =		 8.774964387392123
+Result from FP_SQRT:	 8.774964332580566
+Error:					 5.481155618269895e-08
+
+Test Number x =			 78.0
+Square root of x =		 8.831760866327848
+Result from FP_SQRT:	 8.83176040649414
+Error:					 4.598337071115566e-07
+
+Test Number x =			 79.0
+Square root of x =		 8.888194417315589
+Result from FP_SQRT:	 8.88819408416748
+Error:					 3.331481082113896e-07
+
+Test Number x =			 80.0
+Square root of x =		 8.94427190999916
+Result from FP_SQRT:	 8.944271087646484
+Error:					 8.223526748452059e-07
+
+Test Number x =			 81.0
+Square root of x =		 9.0
+Result from FP_SQRT:	 9.0
+Error:					 0.0
+
+Test Number x =			 82.0
+Square root of x =		 9.055385138137417
+Result from FP_SQRT:	 9.055384635925293
+Error:					 5.022121243314359e-07
+
+Test Number x =			 83.0
+Square root of x =		 9.1104335791443
+Result from FP_SQRT:	 9.110433578491211
+Error:					 6.530882501465385e-10
+
+Test Number x =			 84.0
+Square root of x =		 9.16515138991168
+Result from FP_SQRT:	 9.16515064239502
+Error:					 7.475166601267347e-07
+
+Test Number x =			 85.0
+Square root of x =		 9.219544457292887
+Result from FP_SQRT:	 9.219544410705566
+Error:					 4.658732066786797e-08
+
+Test Number x =			 86.0
+Square root of x =		 9.273618495495704
+Result from FP_SQRT:	 9.273618698120117
+Error:					 2.026244132480315e-07
+
+Test Number x =			 87.0
+Square root of x =		 9.327379053088816
+Result from FP_SQRT:	 9.327378273010254
+Error:					 7.800785617462225e-07
+
+Test Number x =			 88.0
+Square root of x =		 9.38083151964686
+Result from FP_SQRT:	 9.380830764770508
+Error:					 7.548763516496138e-07
+
+Test Number x =			 89.0
+Square root of x =		 9.433981132056603
+Result from FP_SQRT:	 9.433980941772461
+Error:					 1.9028414222077572e-07
+
+Test Number x =			 90.0
+Square root of x =		 9.486832980505138
+Result from FP_SQRT:	 9.486832618713379
+Error:					 3.61791759218022e-07
+
+Test Number x =			 91.0
+Square root of x =		 9.539392014169456
+Result from FP_SQRT:	 9.53939151763916
+Error:					 4.965302959902829e-07
+
+Test Number x =			 92.0
+Square root of x =		 9.591663046625438
+Result from FP_SQRT:	 9.591662406921387
+Error:					 6.397040515082608e-07
+
+Test Number x =			 93.0
+Square root of x =		 9.643650760992955
+Result from FP_SQRT:	 9.64365005493164
+Error:					 7.060613143039518e-07
+
+Test Number x =			 94.0
+Square root of x =		 9.695359714832659
+Result from FP_SQRT:	 9.695359230041504
+Error:					 4.847911547756212e-07
+
+Test Number x =			 95.0
+Square root of x =		 9.746794344808963
+Result from FP_SQRT:	 9.746793746948242
+Error:					 5.978607209300435e-07
+
+Test Number x =			 96.0
+Square root of x =		 9.797958971132712
+Result from FP_SQRT:	 9.797958374023438
+Error:					 5.971092740253425e-07
+
+Test Number x =			 97.0
+Square root of x =		 9.848857801796104
+Result from FP_SQRT:	 9.848856925964355
+Error:					 8.758317484591771e-07
+
+Test Number x =			 98.0
+Square root of x =		 9.899494936611665
+Result from FP_SQRT:	 9.899494171142578
+Error:					 7.654690872271885e-07
+
+Test Number x =			 99.0
+Square root of x =		 9.9498743710662
+Result from FP_SQRT:	 9.949873924255371
+Error:					 4.468108283361971e-07
+
+Test Number x =			 100.0
+Square root of x =		 10.0
+Result from FP_SQRT:	 10.0
+Error:					 0.0
+
+Average Error:	 0.003582991499105679

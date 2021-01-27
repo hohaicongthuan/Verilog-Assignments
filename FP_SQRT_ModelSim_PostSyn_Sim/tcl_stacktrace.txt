@@ -1,0 +1,24 @@
+Wed Dec 30 10:27:30 SA SE Asia Standard Time 2020
+Trace back: invalid command name "::.main_pane.source.interior.cs.body.editor"
+    while executing
+"::.main_pane.source.interior.cs.body.editor source_dragdrop_getsel"
+    (in namespace inscope "::vsimwidgets::Srcedit" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source.interior.cs.body.editor source_dragdrop_getsel}"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (procedure "DND_GetData" line 4)
+    invoked from within
+"DND_GetData namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source.interior.cs.body.editor source_dragdrop_getsel}"
+    ("eval" body line 1)
+    invoked from within
+"eval $vsimPriv(DragDrop_GetHandler,$vsimPriv(DragDrop_fromwindow))"
+    (procedure "DND_Drag" line 16)
+    invoked from within
+"DND_Drag $widget $x $y"
+    (procedure "Wave::DragMotion" line 17)
+    invoked from within
+"Wave::DragMotion 13 .main_pane.wave.interior.cs.body.pw.wf.grid.row0,value.data 74 9 508 258"
+  <2: ::tkerror {invalid command name "::.main_pane.source.interior.cs.body.editor"}
+  <1: ::bgerror {invalid command name "::.main_pane.source.interior.cs.body.editor"}
